@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChosePic</string>
+    <string name="but">拍照</string>
+    <string name="select">选择一张图片</string>
+</resources>
